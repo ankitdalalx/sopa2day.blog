@@ -1,0 +1,23 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 13 Jan 2023 16:56:55 at https://soap2day-online.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar -*soap2day-online.com/* +https://soap2day-online.com/ +https://soap2day-online.com/soap2day-online-2022/ +*https://soap2day-online.com/wp-content/* +*https://soap2day-online.com/wp-includes/*
+(winhttrack -qiC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://soap2day-online.com/ -O1 "C:\My Web Sites\soap2day-online" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar -*soap2day-online.com/* +https://soap2day-online.com/ +https://soap2day-online.com/soap2day-online-2022/ +*https://soap2day-online.com/wp-content/* +*https://soap2day-online.com/wp-includes/* )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:58:33	Error: 	"Not Found" (404) at link https://soap2day-online.com/wp-content/themes/PsyPlay/images/survey.jpg (from https://soap2day-online.com/wp-content/themes/PsyPlay/css/main.css?ver=1.2.7.3)
+16:58:33	Error: 	"Not Found" (404) at link https://soap2day-online.com/wp-content/themes/PsyPlay/images/app-bg.jpg (from https://soap2day-online.com/wp-content/themes/PsyPlay/css/main.css?ver=1.2.7.3)
+16:58:33	Error: 	"Not Found" (404) at link https://soap2day-online.com/wp-content/themes/PsyPlay/images/donate.jpg (from https://soap2day-online.com/wp-content/themes/PsyPlay/css/main.css?ver=1.2.7.3)
+16:58:33	Error: 	"Not Found" (404) at link https://soap2day-online.com/wp-content/themes/PsyPlay/images/wait.png (from https://soap2day-online.com/wp-content/themes/PsyPlay/css/jquery.cluetip.css?ver=1.2.7)
+16:58:33	Error: 	"Not Found" (404) at link https://soap2day-online.com/wp-content/themes/PsyPlay/images/arrow-left.png (from https://soap2day-online.com/wp-content/themes/PsyPlay/css/jquery.cluetip.css?ver=1.2.7)
+16:58:33	Error: 	"Not Found" (404) at link https://soap2day-online.com/wp-content/themes/PsyPlay/images/arrow-right.png (from https://soap2day-online.com/wp-content/themes/PsyPlay/css/jquery.cluetip.css?ver=1.2.7)
+16:58:33	Error: 	"Not Found" (404) at link https://soap2day-online.com/wp-content/themes/PsyPlay/images/darrowdown.png (from https://soap2day-online.com/wp-content/themes/PsyPlay/css/jquery.cluetip.css?ver=1.2.7)
+16:58:33	Error: 	"Not Found" (404) at link https://soap2day-online.com/wp-content/themes/PsyPlay/images/darrowup.png (from https://soap2day-online.com/wp-content/themes/PsyPlay/css/jquery.cluetip.css?ver=1.2.7)
+16:58:33	Error: 	"Not Found" (404) at link https://soap2day-online.com/wp-content/themes/PsyPlay/images/arrowdown.png (from https://soap2day-online.com/wp-content/themes/PsyPlay/css/jquery.cluetip.css?ver=1.2.7)
+16:58:33	Error: 	"Not Found" (404) at link https://soap2day-online.com/wp-content/themes/PsyPlay/images/arrowup.png (from https://soap2day-online.com/wp-content/themes/PsyPlay/css/jquery.cluetip.css?ver=1.2.7)
+16:58:33	Warning: 	Moved Permanently for https://soap2day-online.com/?p=11
+16:58:33	Warning: 	File has moved from https://soap2day-online.com/?p=11 to https://soap2day-online.com/soap2day-online-2022/
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 38 seconds : 61 links scanned, 49 files written (1650401 bytes overall), 6 files updated [178424 bytes received at 1820 bytes/sec], 445773 bytes transferred using HTTP compression in 16 files, ratio 29%, 3.8 requests per connection
+(10 errors, 2 warnings, 0 messages)
